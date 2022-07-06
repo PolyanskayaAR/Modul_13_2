@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = SkillFactory_Csharp_Module_13_Task_2
+build_property.ProjectDir = C:\Users\asya1\Downloads\SkillFactory_Csharp_Module_13_Task_2-master\SkillFactory_Csharp_Module_13_Task_2-master\SkillFactory_Csharp_Module_13_Task_2\
